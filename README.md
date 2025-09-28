@@ -89,4 +89,5 @@ This project is licensed under the MIT License.
 Stream API for scalable chat and call backend
 WebRTC for real-time video/audio communication
 Inspired by modern UI/UX chat platforms
-Made with ❤️ by Suryansh Singh 
+Made with ❤️ by Mayank RajaWat
+ 
